@@ -1,7 +1,7 @@
 # 🌐 Deploying My Static Website using GitHub Pages
 
 ## 👩‍💻 About This Project
-This project was created and deployed by PREETHAM K as part of my web development journey.  
+This project was created and deployed by DHANUSH HC as part of my web development journey.  
 It demonstrates how to host a static website (HTML, CSS, JS) for free using GitHub Pages.
 
 ---
@@ -32,7 +32,7 @@ To make my website live on the internet without paid hosting by using GitHub Pag
 ### 2. Initialized Git in My Project
 Opened my project in VS Code and ran:
 git init
-git remote add origin https://github.com/PREEETHAMK/PREEETHAMK.github.io.git
+git remote add origin https://github.com/Dhanush-540540/Task-5.git
 
 
 3️⃣ Add Website Files
@@ -60,4 +60,4 @@ Click Save.
 
 6️⃣Accessed My Live Website
 
-My site is now live at: https://preeethamk.github.io/
+My site is now live at: https://github.com/Dhanush-540540/Task-5.git
